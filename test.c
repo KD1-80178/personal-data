@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("Hello world");
-    printf("CDAC-karad");
+  int a=10,b=15;
+  printf("Addition=%d", a+b);
 }
